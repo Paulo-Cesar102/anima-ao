@@ -78,11 +78,11 @@ nav a {
 }
 
 nav a:hover{
-    color: rgb(175, 173, 173);
+    color: rgb(175, 173, 173)!important;
 }
 
 .btn-signing{
-    background-color: rgb(155, 154, 154);
+    background-color: rgb(155, 154, 154)!important;
     color: black;
     padding: 0.8rem 2rem;
     border-radius: 50px;
@@ -94,7 +94,7 @@ nav a:hover{
 }
 
 .btn-signing:hover{
-    background-color: rgb(179, 179, 179);
+    background-color: rgb(179, 179, 179)!important;
 }
 
 /*estelização do main e content*/
@@ -112,7 +112,7 @@ nav a:hover{
     width: 18rem;
     height: 2.5rem ;
     border-radius: 50px;
-    background: linear-gradient(to right, #dd4ebe, #7f42a7 , #6600c5, #4b2464);
+    background: linear-gradient(to right, #dd4ebe, #7f42a7 , #6600c5, #4b2464)!important;
     background-size: 200%;
     animation: animationGradient  2.5s linear infinite;
     box-shadow: 0 0 15px white; 
@@ -139,7 +139,7 @@ nav a:hover{
 
 }
 .tag-box .tag:hover{
-    color: rgb(172, 45, 172);
+    color: rgb(172, 45, 172)!important;
 }
 
 .content h1{
@@ -193,7 +193,7 @@ align-items: center;
 }
 
 .btn-main-signing:hover{
-    background-color: rgb(238, 235, 235);
+    background-color: rgb(238, 235, 235) !important; 
 }
 .robo {
     position: absolute;
