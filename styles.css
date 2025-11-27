@@ -101,6 +101,7 @@ nav a:hover{
 
 
 .content{
+    position: relative;
     max-width:40rem ;
     margin-left: 5rem;
     z-index: 999;
