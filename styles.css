@@ -197,6 +197,6 @@ align-items: center;
 }
 .robo {
     position: absolute;
-    top: 0;
+    top: 6rem;
     left: 20rem;
 }
